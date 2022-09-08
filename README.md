@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+# mobile-dev-project
+
+#INSTRUCTIONS
+- Clone the repo and create a new branch, the name of the branch should be <your-name>
+- Push all your code from your local repo to this repo under your branch
+- create a new PR 
